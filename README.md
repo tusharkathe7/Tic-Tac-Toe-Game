@@ -64,5 +64,3 @@ The game will launch in your browser.
 Free to use under the [MIT License](LICENSE).
 
 ---
-
-Made with ❤️ by Your Name
